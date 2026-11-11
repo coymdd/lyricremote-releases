@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.108",
+          "buildVersion": "108",
+          "date": "2026-11-11T03:34:09+00:00",
+          "localizedDescription": "업데이트 후 기기에 남아 있는 가사와 번역을 다시 불러오는 동작을 수정했습니다. 저장한 가사와 번역을 먼저 보여주고, 새로 찾은 가사는 선택 목록에 추가합니다.\n\n곡의 원제와 번역 제목을 저장해 다음 재생에 사용합니다. 이전 앨범아트를 복구하고, 같은 앨범의 이미지를 재사용합니다. 번역 워드싱크 기록도 계속 보관합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.108/LyricRemote.ipa",
+          "size": 17186817,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.107",
           "buildVersion": "107",
           "date": "2026-11-11T00:29:33+00:00",
@@ -37,11 +46,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.107",
-      "versionDate": "2026-11-11T00:29:33+00:00",
-      "versionDescription": "가사 검색과 저장, 재생 화면의 동작을 개선했습니다.\n\nSideStore 소스로 설치와 업데이트를 지원합니다.\niPhone과 iPad를 지원하며 번역 모델은 앱에서 별도로 받습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.107/LyricRemote.ipa",
-      "size": 17136219,
+      "version": "0.108",
+      "versionDate": "2026-11-11T03:34:09+00:00",
+      "versionDescription": "업데이트 후 기기에 남아 있는 가사와 번역을 다시 불러오는 동작을 수정했습니다. 저장한 가사와 번역을 먼저 보여주고, 새로 찾은 가사는 선택 목록에 추가합니다.\n\n곡의 원제와 번역 제목을 저장해 다음 재생에 사용합니다. 이전 앨범아트를 복구하고, 같은 앨범의 이미지를 재사용합니다. 번역 워드싱크 기록도 계속 보관합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.108/LyricRemote.ipa",
+      "size": 17186817,
       "minOSVersion": "17.0"
     }
   ],

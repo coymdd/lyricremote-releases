@@ -1,0 +1,49 @@
+{
+  "name": "Lyric Remote",
+  "identifier": "io.github.coymdd.lyricremote",
+  "sourceURL": "https://coymdd.github.io/lyricremote-releases/source.json",
+  "subtitle": "가사와 번역을 함께 보는 음악 리모컨",
+  "description": "Lyric Remote의 설치 파일과 업데이트를 제공합니다.",
+  "website": "https://github.com/coymdd/lyricremote-releases",
+  "iconURL": "https://raw.githubusercontent.com/coymdd/lyricremote-releases/main/icon.png",
+  "tintColor": "#7869EB",
+  "apps": [
+    {
+      "name": "Lyric Remote",
+      "bundleIdentifier": "com.codex.lyricremote",
+      "developerName": "coymdd",
+      "subtitle": "음악에 맞춰 흐르는 가사와 번역",
+      "localizedDescription": "현재 재생 중인 음악의 가사와 번역을 보고, 같은 Wi-Fi의 TV에 가사를 표시할 수 있습니다. iPhone과 iPad를 지원합니다. 번역 모델은 앱에서 별도로 다운로드합니다.",
+      "iconURL": "https://raw.githubusercontent.com/coymdd/lyricremote-releases/main/icon.png",
+      "tintColor": "#7869EB",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "0.107",
+          "buildVersion": "107",
+          "date": "2026-11-11T00:29:33+00:00",
+          "localizedDescription": "가사 검색과 저장, 재생 화면의 동작을 개선했습니다.\n\nSideStore 소스로 설치와 업데이트를 지원합니다.\niPhone과 iPad를 지원하며 번역 모델은 앱에서 별도로 받습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.107/LyricRemote.ipa",
+          "size": 17136219,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.kernel.increased-memory-limit"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "현재 재생 중인 곡을 찾고 Apple Music 구독 가사를 불러오기 위해 미디어 보관함 접근을 사용합니다.",
+          "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
+        }
+      },
+      "version": "0.107",
+      "versionDate": "2026-11-11T00:29:33+00:00",
+      "versionDescription": "가사 검색과 저장, 재생 화면의 동작을 개선했습니다.\n\nSideStore 소스로 설치와 업데이트를 지원합니다.\niPhone과 iPad를 지원하며 번역 모델은 앱에서 별도로 받습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.107/LyricRemote.ipa",
+      "size": 17136219,
+      "minOSVersion": "17.0"
+    }
+  ],
+  "news": []
+}

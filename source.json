@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.109",
+          "buildVersion": "109",
+          "date": "2026-11-11T04:05:38+00:00",
+          "localizedDescription": "## Lyric Remote 0.109\n\n- 저장된 가사와 제목 번역을 먼저 표시하고, 검색 결과가 돌아와도 표시 중인 저장본을 유지합니다.\n- Studio Mac 재생에 다시 연결되면 새 재생 위치에 맞춰 가사 싱크를 복구합니다.\n- Apple 번역과 로컬 AI 번역에서 일시적인 실패가 나면 최대 두 번 더 시도합니다. 끝까지 실패한 이유와 다시 시도 버튼은 번역 모델 설정에서 확인할 수 있습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.109/LyricRemote.ipa",
+          "size": 19390433,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.108",
           "buildVersion": "108",
           "date": "2026-11-11T03:34:09+00:00",
@@ -46,11 +55,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.108",
-      "versionDate": "2026-11-11T03:34:09+00:00",
-      "versionDescription": "업데이트 후 기기에 남아 있는 가사와 번역을 다시 불러오는 동작을 수정했습니다. 저장한 가사와 번역을 먼저 보여주고, 새로 찾은 가사는 선택 목록에 추가합니다.\n\n곡의 원제와 번역 제목을 저장해 다음 재생에 사용합니다. 이전 앨범아트를 복구하고, 같은 앨범의 이미지를 재사용합니다. 번역 워드싱크 기록도 계속 보관합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.108/LyricRemote.ipa",
-      "size": 17186817,
+      "version": "0.109",
+      "versionDate": "2026-11-11T04:05:38+00:00",
+      "versionDescription": "## Lyric Remote 0.109\n\n- 저장된 가사와 제목 번역을 먼저 표시하고, 검색 결과가 돌아와도 표시 중인 저장본을 유지합니다.\n- Studio Mac 재생에 다시 연결되면 새 재생 위치에 맞춰 가사 싱크를 복구합니다.\n- Apple 번역과 로컬 AI 번역에서 일시적인 실패가 나면 최대 두 번 더 시도합니다. 끝까지 실패한 이유와 다시 시도 버튼은 번역 모델 설정에서 확인할 수 있습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.109/LyricRemote.ipa",
+      "size": 19390433,
       "minOSVersion": "17.0"
     }
   ],

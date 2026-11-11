@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.110",
+          "buildVersion": "110",
+          "date": "2026-11-11T05:18:17+00:00",
+          "localizedDescription": "## Lyric Remote 0.110\n\n- 같은 곡의 길이·앨범 정보가 조금 달라지거나 재생 기기를 바꾸면, 이전에 번역한 제목이 가사 검색 뒤에 표시되는 문제가 있었습니다. 같은 곡으로 확인되면 저장된 제목 번역을 먼저 불러오며, 기존 버전에 저장한 제목도 다시 사용합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.110/LyricRemote.ipa",
+          "size": 19398609,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.109",
           "buildVersion": "109",
           "date": "2026-11-11T04:05:38+00:00",
@@ -55,11 +64,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.109",
-      "versionDate": "2026-11-11T04:05:38+00:00",
-      "versionDescription": "## Lyric Remote 0.109\n\n- 저장된 가사와 제목 번역을 먼저 표시하고, 검색 결과가 돌아와도 표시 중인 저장본을 유지합니다.\n- Studio Mac 재생에 다시 연결되면 새 재생 위치에 맞춰 가사 싱크를 복구합니다.\n- Apple 번역과 로컬 AI 번역에서 일시적인 실패가 나면 최대 두 번 더 시도합니다. 끝까지 실패한 이유와 다시 시도 버튼은 번역 모델 설정에서 확인할 수 있습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.109/LyricRemote.ipa",
-      "size": 19390433,
+      "version": "0.110",
+      "versionDate": "2026-11-11T05:18:17+00:00",
+      "versionDescription": "## Lyric Remote 0.110\n\n- 같은 곡의 길이·앨범 정보가 조금 달라지거나 재생 기기를 바꾸면, 이전에 번역한 제목이 가사 검색 뒤에 표시되는 문제가 있었습니다. 같은 곡으로 확인되면 저장된 제목 번역을 먼저 불러오며, 기존 버전에 저장한 제목도 다시 사용합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.110/LyricRemote.ipa",
+      "size": 19398609,
       "minOSVersion": "17.0"
     }
   ],

@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.112",
+          "buildVersion": "112",
+          "date": "2026-11-14T20:54:44+00:00",
+          "localizedDescription": "## Lyric Remote 0.112\n\n- 반반 멀티태스킹 중에 폰을 접으면 화면 구성이 어긋나던 문제를 고쳤습니다. 접힘 상태에 맞춰 상단 툴바와 하단 조작이 다시 배치됩니다.\n- 좁은 창인지 판단할 때 화면 크기가 아니라 창 크기를 사용하도록 바꿔, 분할 화면에서 가사와 조작이 겹치지 않습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.112/LyricRemote.ipa",
+          "size": 19401833,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.111",
           "buildVersion": "111",
           "date": "2026-11-14T20:26:10+00:00",
@@ -73,11 +82,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.111",
-      "versionDate": "2026-11-14T20:26:10+00:00",
-      "versionDescription": "## Lyric Remote 0.111\n\n- 곡을 바꾸거나 가사를 불러오는 동안 재생 위치를 읽는 작업이 화면 갱신을 막아, 가사 강조가 잠깐 밀리던 문제를 고쳤습니다.\n- 이번 빌드는 내부 정리 중심이며 화면 구성과 설정은 0.110과 같습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.111/LyricRemote.ipa",
-      "size": 19400546,
+      "version": "0.112",
+      "versionDate": "2026-11-14T20:54:44+00:00",
+      "versionDescription": "## Lyric Remote 0.112\n\n- 반반 멀티태스킹 중에 폰을 접으면 화면 구성이 어긋나던 문제를 고쳤습니다. 접힘 상태에 맞춰 상단 툴바와 하단 조작이 다시 배치됩니다.\n- 좁은 창인지 판단할 때 화면 크기가 아니라 창 크기를 사용하도록 바꿔, 분할 화면에서 가사와 조작이 겹치지 않습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.112/LyricRemote.ipa",
+      "size": 19401833,
       "minOSVersion": "17.0"
     }
   ],

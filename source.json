@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.114",
+          "buildVersion": "114",
+          "date": "2026-11-14T21:59:23+00:00",
+          "localizedDescription": "## Lyric Remote 0.114\n\n- 폰을 접었을 때 상단 메뉴가 한쪽으로 몰리거나 일부가 사라지던 문제를 고쳤습니다. 접힘 상태가 바뀌면 툴바를 다시 구성합니다.\n- 0.113에서 달라졌던 화면 구성을 0.110과 동일하게 되돌렸습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.114/LyricRemote.ipa",
+          "size": 19402063,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.113",
           "buildVersion": "113",
           "date": "2026-11-14T21:14:46+00:00",
@@ -91,11 +100,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.113",
-      "versionDate": "2026-11-14T21:14:46+00:00",
-      "versionDescription": "## Lyric Remote 0.113\n\n- 폰을 조금만 접었을 때 화면이 흔들리거나 한쪽으로 몰리던 문제를 고쳤습니다. 얇은 접힘은 레이아웃 변경으로 취급하지 않습니다.\n- 창 폭이 경계 근처에서 흔들려도 배치가 뒤집히지 않도록 했습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.113/LyricRemote.ipa",
-      "size": 19401067,
+      "version": "0.114",
+      "versionDate": "2026-11-14T21:59:23+00:00",
+      "versionDescription": "## Lyric Remote 0.114\n\n- 폰을 접었을 때 상단 메뉴가 한쪽으로 몰리거나 일부가 사라지던 문제를 고쳤습니다. 접힘 상태가 바뀌면 툴바를 다시 구성합니다.\n- 0.113에서 달라졌던 화면 구성을 0.110과 동일하게 되돌렸습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.114/LyricRemote.ipa",
+      "size": 19402063,
       "minOSVersion": "17.0"
     }
   ],

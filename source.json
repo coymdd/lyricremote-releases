@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.127",
+          "buildVersion": "127",
+          "date": "2026-11-16T09:31:01+00:00",
+          "localizedDescription": "- 기기 내 가사 해설을 사용할 수 없을 때 버튼이 사라지던 문제를 수정했습니다. 이제 버튼 아래에 Apple Intelligence가 꺼져 있거나 준비 중인 경우 등 사용할 수 없는 이유를 표시합니다.\n- 기기에서 해설을 만들고도 인용이 원문과 맞지 않아 답이 통째로 사라지던 문제를 수정했습니다. 이 경우 원문과 해설을 보여줍니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.127/LyricRemote.ipa",
+          "size": 19487098,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.126",
           "buildVersion": "126",
           "date": "2026-11-16T08:26:41+00:00",
@@ -190,11 +199,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.126",
-      "versionDate": "2026-11-16T08:26:41+00:00",
-      "versionDescription": "- 가사 줄 사이의 짧은 공백에서 두 줄이 모두 흐려지는 문제를 수정했습니다. 간주에는 점 아래에 다음 줄을 또렷하게 표시하고, 단어 강조는 가사가 시작되는 시각에 켜집니다.\n- Apple Intelligence를 사용할 수 있는 기기에서는 가사 줄을 길게 누르거나 우클릭해 한국어 해설을 볼 수 있습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.126/LyricRemote.ipa",
-      "size": 19486766,
+      "version": "0.127",
+      "versionDate": "2026-11-16T09:31:01+00:00",
+      "versionDescription": "- 기기 내 가사 해설을 사용할 수 없을 때 버튼이 사라지던 문제를 수정했습니다. 이제 버튼 아래에 Apple Intelligence가 꺼져 있거나 준비 중인 경우 등 사용할 수 없는 이유를 표시합니다.\n- 기기에서 해설을 만들고도 인용이 원문과 맞지 않아 답이 통째로 사라지던 문제를 수정했습니다. 이 경우 원문과 해설을 보여줍니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.127/LyricRemote.ipa",
+      "size": 19487098,
       "minOSVersion": "17.0"
     }
   ],

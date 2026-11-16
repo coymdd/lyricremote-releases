@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.125",
+          "buildVersion": "125",
+          "date": "2026-11-16T07:30:20+00:00",
+          "localizedDescription": "- 전주와 긴 간주에서 점 세 개가 차올라 다음 가사가 시작될 때를 알려줍니다.\n- Apple Music 가사에 가창자 정보가 있으면 듀엣 가사를 좌우로 나누어 표시합니다. 배경 보컬도 주보컬과 겹치는 구간에 따로 강조합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.125/LyricRemote.ipa",
+          "size": 19443278,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.124",
           "buildVersion": "124",
           "date": "2026-11-16T04:51:30+00:00",
@@ -172,11 +181,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.124",
-      "versionDate": "2026-11-16T04:51:30+00:00",
-      "versionDescription": "## iPhone Duo\n\n- 안쪽 화면을 세로로 반 접었을 때 가사 위에 여백이 크게 남던 배치를 개선했습니다. 가사 영역을 시계와 배터리 표시 왼쪽까지 넓히고, 상태 표시와 같은 높이를 지나는 가사의 오른쪽 끝은 자연스럽게 흐려집니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.124/LyricRemote.ipa",
-      "size": 19420235,
+      "version": "0.125",
+      "versionDate": "2026-11-16T07:30:20+00:00",
+      "versionDescription": "- 전주와 긴 간주에서 점 세 개가 차올라 다음 가사가 시작될 때를 알려줍니다.\n- Apple Music 가사에 가창자 정보가 있으면 듀엣 가사를 좌우로 나누어 표시합니다. 배경 보컬도 주보컬과 겹치는 구간에 따로 강조합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.125/LyricRemote.ipa",
+      "size": 19443278,
       "minOSVersion": "17.0"
     }
   ],

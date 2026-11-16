@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.121",
+          "buildVersion": "121",
+          "date": "2026-11-16T01:56:02+00:00",
+          "localizedDescription": "## 번역 가사 표시\n\n- PLaMo 3 Translate 8B에서 첫 번역 이후 다음 가사가 한꺼번에 나올 때까지 기다리던 시간을 줄였습니다. 여러 구간을 동시에 번역하는 동안 먼저 확인된 가사부터 표시합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.121/LyricRemote.ipa",
+          "size": 19404345,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.120",
           "buildVersion": "120",
           "date": "2026-11-16T00:45:37+00:00",
@@ -136,11 +145,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.120",
-      "versionDate": "2026-11-16T00:45:37+00:00",
-      "versionDescription": "- 일반 메모리 경고 때 번역 워드싱크가 30초 동안 멈추던 문제를 고쳤습니다. 정렬에 실패하거나 메모리 압박이 심각할 때만 잠시 미루고, 번역이 끝나고 압박이 풀리면 남은 줄부터 이어서 처리합니다.\n- 따옴표나 타이밍이 없는 문장부호 때문에 가사 한 줄 전체의 워드싱크가 빠지던 문제를 고쳤습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.120/LyricRemote.ipa",
-      "size": 19405293,
+      "version": "0.121",
+      "versionDate": "2026-11-16T01:56:02+00:00",
+      "versionDescription": "## 번역 가사 표시\n\n- PLaMo 3 Translate 8B에서 첫 번역 이후 다음 가사가 한꺼번에 나올 때까지 기다리던 시간을 줄였습니다. 여러 구간을 동시에 번역하는 동안 먼저 확인된 가사부터 표시합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.121/LyricRemote.ipa",
+      "size": 19404345,
       "minOSVersion": "17.0"
     }
   ],

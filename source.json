@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.122",
+          "buildVersion": "122",
+          "date": "2026-11-16T02:19:56+00:00",
+          "localizedDescription": "## 번역 가사\n\n- PLaMo 3 Translate 2B에서 도입부 번역이 전부 거부될 때, 같은 줄을 다시 시도하느라 첫 자막이 늦어지던 문제를 줄였습니다. 다음 소절의 번역을 먼저 표시하고 실패한 도입부의 번역은 이어서 재시도합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.122/LyricRemote.ipa",
+          "size": 19412758,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.121",
           "buildVersion": "121",
           "date": "2026-11-16T01:56:02+00:00",
@@ -145,11 +154,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.121",
-      "versionDate": "2026-11-16T01:56:02+00:00",
-      "versionDescription": "## 번역 가사 표시\n\n- PLaMo 3 Translate 8B에서 첫 번역 이후 다음 가사가 한꺼번에 나올 때까지 기다리던 시간을 줄였습니다. 여러 구간을 동시에 번역하는 동안 먼저 확인된 가사부터 표시합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.121/LyricRemote.ipa",
-      "size": 19404345,
+      "version": "0.122",
+      "versionDate": "2026-11-16T02:19:56+00:00",
+      "versionDescription": "## 번역 가사\n\n- PLaMo 3 Translate 2B에서 도입부 번역이 전부 거부될 때, 같은 줄을 다시 시도하느라 첫 자막이 늦어지던 문제를 줄였습니다. 다음 소절의 번역을 먼저 표시하고 실패한 도입부의 번역은 이어서 재시도합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.122/LyricRemote.ipa",
+      "size": 19412758,
       "minOSVersion": "17.0"
     }
   ],

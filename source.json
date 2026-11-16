@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.128",
+          "buildVersion": "128",
+          "date": "2026-11-16T11:44:50+00:00",
+          "localizedDescription": "전주·간주에서 점 세 개와 다음 가사가 동시에 밝게 보이던 문제를 고쳤습니다. 이제 점 표시가 진행되는 동안 다음 가사와 번역은 흐리게 보이고, 노래가 시작되면 해당 가사가 강조됩니다. 짧은 가사 공백에서 한 줄을 또렷하게 유지하는 동작은 그대로입니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.128/LyricRemote.ipa",
+          "size": 19486309,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.127",
           "buildVersion": "127",
           "date": "2026-11-16T09:31:01+00:00",
@@ -199,11 +208,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.127",
-      "versionDate": "2026-11-16T09:31:01+00:00",
-      "versionDescription": "- 기기 내 가사 해설을 사용할 수 없을 때 버튼이 사라지던 문제를 수정했습니다. 이제 버튼 아래에 Apple Intelligence가 꺼져 있거나 준비 중인 경우 등 사용할 수 없는 이유를 표시합니다.\n- 기기에서 해설을 만들고도 인용이 원문과 맞지 않아 답이 통째로 사라지던 문제를 수정했습니다. 이 경우 원문과 해설을 보여줍니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.127/LyricRemote.ipa",
-      "size": 19487098,
+      "version": "0.128",
+      "versionDate": "2026-11-16T11:44:50+00:00",
+      "versionDescription": "전주·간주에서 점 세 개와 다음 가사가 동시에 밝게 보이던 문제를 고쳤습니다. 이제 점 표시가 진행되는 동안 다음 가사와 번역은 흐리게 보이고, 노래가 시작되면 해당 가사가 강조됩니다. 짧은 가사 공백에서 한 줄을 또렷하게 유지하는 동작은 그대로입니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.128/LyricRemote.ipa",
+      "size": 19486309,
       "minOSVersion": "17.0"
     }
   ],

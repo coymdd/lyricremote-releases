@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.124",
+          "buildVersion": "124",
+          "date": "2026-11-16T04:51:30+00:00",
+          "localizedDescription": "## iPhone Duo\n\n- 안쪽 화면을 세로로 반 접었을 때 가사 위에 여백이 크게 남던 배치를 개선했습니다. 가사 영역을 시계와 배터리 표시 왼쪽까지 넓히고, 상태 표시와 같은 높이를 지나는 가사의 오른쪽 끝은 자연스럽게 흐려집니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.124/LyricRemote.ipa",
+          "size": 19420235,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.123",
           "buildVersion": "123",
           "date": "2026-11-16T02:52:03+00:00",
@@ -163,11 +172,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.123",
-      "versionDate": "2026-11-16T02:52:03+00:00",
-      "versionDescription": "## iPhone Duo\n\n- 안쪽 화면을 세로로 반 접으면 앨범 아트가 작고 유리 버튼이 위쪽에 있던 배치를 개선했습니다. 위쪽에는 가사와 번역을 표시하고, 아래쪽에는 커진 앨범 아트와 곡 정보, 재생·볼륨 조작부, 유리 버튼을 배치했습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.123/LyricRemote.ipa",
-      "size": 19415623,
+      "version": "0.124",
+      "versionDate": "2026-11-16T04:51:30+00:00",
+      "versionDescription": "## iPhone Duo\n\n- 안쪽 화면을 세로로 반 접었을 때 가사 위에 여백이 크게 남던 배치를 개선했습니다. 가사 영역을 시계와 배터리 표시 왼쪽까지 넓히고, 상태 표시와 같은 높이를 지나는 가사의 오른쪽 끝은 자연스럽게 흐려집니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.124/LyricRemote.ipa",
+      "size": 19420235,
       "minOSVersion": "17.0"
     }
   ],

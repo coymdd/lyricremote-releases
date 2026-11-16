@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.129",
+          "buildVersion": "129",
+          "date": "2026-11-16T13:54:11+00:00",
+          "localizedDescription": "다음 가사로 넘어갈 때 문장 전체가 잠깐 밝아졌다가 어두워지고 단어 강조가 다시 시작되던 현상을 고쳤습니다. 이제 다음 줄은 부르기 전 밝기를 유지하고, 실제 시작 시점부터 단어별로 자연스럽게 강조됩니다. 원문과 단어 싱크가 준비된 번역 모두에 적용합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.129/LyricRemote.ipa",
+          "size": 19486808,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.128",
           "buildVersion": "128",
           "date": "2026-11-16T11:44:50+00:00",
@@ -208,11 +217,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.128",
-      "versionDate": "2026-11-16T11:44:50+00:00",
-      "versionDescription": "전주·간주에서 점 세 개와 다음 가사가 동시에 밝게 보이던 문제를 고쳤습니다. 이제 점 표시가 진행되는 동안 다음 가사와 번역은 흐리게 보이고, 노래가 시작되면 해당 가사가 강조됩니다. 짧은 가사 공백에서 한 줄을 또렷하게 유지하는 동작은 그대로입니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.128/LyricRemote.ipa",
-      "size": 19486309,
+      "version": "0.129",
+      "versionDate": "2026-11-16T13:54:11+00:00",
+      "versionDescription": "다음 가사로 넘어갈 때 문장 전체가 잠깐 밝아졌다가 어두워지고 단어 강조가 다시 시작되던 현상을 고쳤습니다. 이제 다음 줄은 부르기 전 밝기를 유지하고, 실제 시작 시점부터 단어별로 자연스럽게 강조됩니다. 원문과 단어 싱크가 준비된 번역 모두에 적용합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.129/LyricRemote.ipa",
+      "size": 19486808,
       "minOSVersion": "17.0"
     }
   ],

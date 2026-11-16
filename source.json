@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.123",
+          "buildVersion": "123",
+          "date": "2026-11-16T02:52:03+00:00",
+          "localizedDescription": "## iPhone Duo\n\n- 안쪽 화면을 세로로 반 접으면 앨범 아트가 작고 유리 버튼이 위쪽에 있던 배치를 개선했습니다. 위쪽에는 가사와 번역을 표시하고, 아래쪽에는 커진 앨범 아트와 곡 정보, 재생·볼륨 조작부, 유리 버튼을 배치했습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.123/LyricRemote.ipa",
+          "size": 19415623,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.122",
           "buildVersion": "122",
           "date": "2026-11-16T02:19:56+00:00",
@@ -154,11 +163,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.122",
-      "versionDate": "2026-11-16T02:19:56+00:00",
-      "versionDescription": "## 번역 가사\n\n- PLaMo 3 Translate 2B에서 도입부 번역이 전부 거부될 때, 같은 줄을 다시 시도하느라 첫 자막이 늦어지던 문제를 줄였습니다. 다음 소절의 번역을 먼저 표시하고 실패한 도입부의 번역은 이어서 재시도합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.122/LyricRemote.ipa",
-      "size": 19412758,
+      "version": "0.123",
+      "versionDate": "2026-11-16T02:52:03+00:00",
+      "versionDescription": "## iPhone Duo\n\n- 안쪽 화면을 세로로 반 접으면 앨범 아트가 작고 유리 버튼이 위쪽에 있던 배치를 개선했습니다. 위쪽에는 가사와 번역을 표시하고, 아래쪽에는 커진 앨범 아트와 곡 정보, 재생·볼륨 조작부, 유리 버튼을 배치했습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.123/LyricRemote.ipa",
+      "size": 19415623,
       "minOSVersion": "17.0"
     }
   ],

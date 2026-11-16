@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.130",
+          "buildVersion": "130",
+          "date": "2026-11-16T14:19:49+00:00",
+          "localizedDescription": "- 번역 모델 목록에서 외부 API를 고를 수 있습니다. DeepSeek 기본값이나 호환 서버를 설정하면 재생 중인 곡의 가사와 제목을 번역하고, 저장한 번역은 다시 사용합니다.\n- 가사 줄을 길게 누르거나 우클릭한 뒤 ‘외부 모델로 해설’을 선택할 수 있습니다. 해설에 쓰는 프롬프트는 외부 API 설정에서 편집할 수 있습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.130/LyricRemote.ipa",
+          "size": 19588072,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.129",
           "buildVersion": "129",
           "date": "2026-11-16T13:54:11+00:00",
@@ -217,11 +226,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.129",
-      "versionDate": "2026-11-16T13:54:11+00:00",
-      "versionDescription": "다음 가사로 넘어갈 때 문장 전체가 잠깐 밝아졌다가 어두워지고 단어 강조가 다시 시작되던 현상을 고쳤습니다. 이제 다음 줄은 부르기 전 밝기를 유지하고, 실제 시작 시점부터 단어별로 자연스럽게 강조됩니다. 원문과 단어 싱크가 준비된 번역 모두에 적용합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.129/LyricRemote.ipa",
-      "size": 19486808,
+      "version": "0.130",
+      "versionDate": "2026-11-16T14:19:49+00:00",
+      "versionDescription": "- 번역 모델 목록에서 외부 API를 고를 수 있습니다. DeepSeek 기본값이나 호환 서버를 설정하면 재생 중인 곡의 가사와 제목을 번역하고, 저장한 번역은 다시 사용합니다.\n- 가사 줄을 길게 누르거나 우클릭한 뒤 ‘외부 모델로 해설’을 선택할 수 있습니다. 해설에 쓰는 프롬프트는 외부 API 설정에서 편집할 수 있습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.130/LyricRemote.ipa",
+      "size": 19588072,
       "minOSVersion": "17.0"
     }
   ],

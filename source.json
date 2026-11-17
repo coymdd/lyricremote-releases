@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.131",
+          "buildVersion": "131",
+          "date": "2026-11-17T13:44:45+00:00",
+          "localizedDescription": "- PLaMo 3 Translate 2B에 **일본어 가사 특화 번역**을 추가했습니다. 일본어 가사를 한국어로 옮길 때 켤 수 있고, 끄면 원본 2B로 돌아갑니다. 두 버전의 저장된 번역은 각각 유지됩니다.\n\nBuilt with PLaMo. [PLaMo 이용약관](https://plamo.preferredai.jp/info/plamo-community-license-en)",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.131/LyricRemote.ipa",
+          "size": 21777713,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.130",
           "buildVersion": "130",
           "date": "2026-11-16T14:19:49+00:00",
@@ -226,11 +235,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.130",
-      "versionDate": "2026-11-16T14:19:49+00:00",
-      "versionDescription": "- 번역 모델 목록에서 외부 API를 고를 수 있습니다. DeepSeek 기본값이나 호환 서버를 설정하면 재생 중인 곡의 가사와 제목을 번역하고, 저장한 번역은 다시 사용합니다.\n- 가사 줄을 길게 누르거나 우클릭한 뒤 ‘외부 모델로 해설’을 선택할 수 있습니다. 해설에 쓰는 프롬프트는 외부 API 설정에서 편집할 수 있습니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.130/LyricRemote.ipa",
-      "size": 19588072,
+      "version": "0.131",
+      "versionDate": "2026-11-17T13:44:45+00:00",
+      "versionDescription": "- PLaMo 3 Translate 2B에 **일본어 가사 특화 번역**을 추가했습니다. 일본어 가사를 한국어로 옮길 때 켤 수 있고, 끄면 원본 2B로 돌아갑니다. 두 버전의 저장된 번역은 각각 유지됩니다.\n\nBuilt with PLaMo. [PLaMo 이용약관](https://plamo.preferredai.jp/info/plamo-community-license-en)",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.131/LyricRemote.ipa",
+      "size": 21777713,
       "minOSVersion": "17.0"
     }
   ],

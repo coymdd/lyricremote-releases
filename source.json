@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.133",
+          "buildVersion": "133",
+          "date": "2026-11-17T14:35:43+00:00",
+          "localizedDescription": "- Mac Studio에서 번역이 끝난 곡을 iPhone으로 바꿔 틀면 가사를 다시 번역하던 문제를 수정했습니다. 같은 녹음, 원문, 번역 설정이면 이미 저장된 번역을 바로 불러옵니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.133/LyricRemote.ipa",
+          "size": 21784487,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.132",
           "buildVersion": "132",
           "date": "2026-11-17T14:17:56+00:00",
@@ -244,11 +253,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.132",
-      "versionDate": "2026-11-17T14:17:56+00:00",
-      "versionDescription": "Mac에서 Aimer의 〈Noir! Noir!〉를 재생할 때 가수명이 `에메`로 전달되면 아이패드에서 앨범 표지가 보이지 않았습니다. 이제 Apple의 가수 고유번호로 두 이름이 같은 가수를 가리키는지 확인해 `DAWN`의 원본 표지를 가져옵니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.132/LyricRemote.ipa",
-      "size": 21777031,
+      "version": "0.133",
+      "versionDate": "2026-11-17T14:35:43+00:00",
+      "versionDescription": "- Mac Studio에서 번역이 끝난 곡을 iPhone으로 바꿔 틀면 가사를 다시 번역하던 문제를 수정했습니다. 같은 녹음, 원문, 번역 설정이면 이미 저장된 번역을 바로 불러옵니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.133/LyricRemote.ipa",
+      "size": 21784487,
       "minOSVersion": "17.0"
     }
   ],

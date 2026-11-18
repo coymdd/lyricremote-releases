@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.134",
+          "buildVersion": "134",
+          "date": "2026-11-18T07:22:06+00:00",
+          "localizedDescription": "가사가 없는 곡으로 바꿀 때 이전 곡의 배경이 계속 남는 문제를 수정했습니다. 새 표지에 맞춰 배경을 바꾸고, 표지도 없는 곡은 이전 배경을 지워 기본 배경을 표시합니다. 표지 검색은 가사 검색 완료를 기다리지 않습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.134/LyricRemote.ipa",
+          "size": 21791142,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.133",
           "buildVersion": "133",
           "date": "2026-11-17T14:35:43+00:00",
@@ -253,11 +262,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.133",
-      "versionDate": "2026-11-17T14:35:43+00:00",
-      "versionDescription": "- Mac Studio에서 번역이 끝난 곡을 iPhone으로 바꿔 틀면 가사를 다시 번역하던 문제를 수정했습니다. 같은 녹음, 원문, 번역 설정이면 이미 저장된 번역을 바로 불러옵니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.133/LyricRemote.ipa",
-      "size": 21784487,
+      "version": "0.134",
+      "versionDate": "2026-11-18T07:22:06+00:00",
+      "versionDescription": "가사가 없는 곡으로 바꿀 때 이전 곡의 배경이 계속 남는 문제를 수정했습니다. 새 표지에 맞춰 배경을 바꾸고, 표지도 없는 곡은 이전 배경을 지워 기본 배경을 표시합니다. 표지 검색은 가사 검색 완료를 기다리지 않습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.134/LyricRemote.ipa",
+      "size": 21791142,
       "minOSVersion": "17.0"
     }
   ],

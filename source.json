@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.138",
+          "buildVersion": "138",
+          "date": "2026-11-18T09:48:42+00:00",
+          "localizedDescription": "한국어 가사와 제목을 다시 번역하거나 원문 아래에 중복 표시하던 문제를 수정했습니다. 한국어는 원문 그대로 표시하고, 곡에 섞인 외국어 가사는 계속 번역합니다.\n\n이전 캐시에 한국어 번역이 저장되어 있어도 중복 표시하지 않습니다. 함께 저장된 외국어 번역은 그대로 불러옵니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.138/LyricRemote.ipa",
+          "size": 21859684,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.137",
           "buildVersion": "137",
           "date": "2026-11-18T09:15:23+00:00",
@@ -289,11 +298,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.137",
-      "versionDate": "2026-11-18T09:15:23+00:00",
-      "versionDescription": "- 정상적인 이전 버전 Apple Music 가사 백업을 ‘읽지 못한 파일’로 처리하던 문제를 수정했습니다. 복원 시 현재 앱에서 바로 읽을 수 있는 형식으로 변환하고 기존 번역도 함께 불러옵니다.\n- 같은 백업을 다시 불러오면 변환한 항목을 중복 저장하지 않고 기존 내용으로 유지합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.137/LyricRemote.ipa",
-      "size": 21855955,
+      "version": "0.138",
+      "versionDate": "2026-11-18T09:48:42+00:00",
+      "versionDescription": "한국어 가사와 제목을 다시 번역하거나 원문 아래에 중복 표시하던 문제를 수정했습니다. 한국어는 원문 그대로 표시하고, 곡에 섞인 외국어 가사는 계속 번역합니다.\n\n이전 캐시에 한국어 번역이 저장되어 있어도 중복 표시하지 않습니다. 함께 저장된 외국어 번역은 그대로 불러옵니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.138/LyricRemote.ipa",
+      "size": 21859684,
       "minOSVersion": "17.0"
     }
   ],

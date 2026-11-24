@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.145",
+          "buildVersion": "145",
+          "date": "2026-11-24T06:35:08+00:00",
+          "localizedDescription": "- Studio 재생곡이 이름 검색에서 누락되거나 다른 음반의 결과를 사용하던 문제를 개선했습니다. Music의 재생 대기열에서 확인한 Apple Music 곡 ID로 표지와 가사를 먼저 조회합니다. Studio 연결에서 사용하려면 브리지도 이번 버전으로 업데이트해야 합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.145/LyricRemote.ipa",
+          "size": 21919556,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.144",
           "buildVersion": "144",
           "date": "2026-11-24T06:19:11+00:00",
@@ -352,11 +361,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.144",
-      "versionDate": "2026-11-24T06:19:11+00:00",
-      "versionDescription": "- HARLEY QUINN, Batshit처럼 검색에서 빠진 곡에 기본 이미지와 검은 배경이 뜨던 문제를 수정했습니다. 현재 곡의 Apple Music ID를 우선 사용하고, Studio에서는 카탈로그에서 곡과 음반을 대조해 표지를 가져옵니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.144/LyricRemote.ipa",
-      "size": 21905014,
+      "version": "0.145",
+      "versionDate": "2026-11-24T06:35:08+00:00",
+      "versionDescription": "- Studio 재생곡이 이름 검색에서 누락되거나 다른 음반의 결과를 사용하던 문제를 개선했습니다. Music의 재생 대기열에서 확인한 Apple Music 곡 ID로 표지와 가사를 먼저 조회합니다. Studio 연결에서 사용하려면 브리지도 이번 버전으로 업데이트해야 합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.145/LyricRemote.ipa",
+      "size": 21919556,
       "minOSVersion": "17.0"
     }
   ],

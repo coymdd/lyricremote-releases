@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.144",
+          "buildVersion": "144",
+          "date": "2026-11-24T06:19:11+00:00",
+          "localizedDescription": "- HARLEY QUINN, Batshit처럼 검색에서 빠진 곡에 기본 이미지와 검은 배경이 뜨던 문제를 수정했습니다. 현재 곡의 Apple Music ID를 우선 사용하고, Studio에서는 카탈로그에서 곡과 음반을 대조해 표지를 가져옵니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.144/LyricRemote.ipa",
+          "size": 21905014,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.143",
           "buildVersion": "143",
           "date": "2026-11-24T06:04:55+00:00",
@@ -343,11 +352,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.143",
-      "versionDate": "2026-11-24T06:04:55+00:00",
-      "versionDescription": "- 곡에 가사가 없을 때도 중국어 안내문이 가사처럼 표시되고 번역되던 문제를 수정했습니다. 모든 가사 제공처와 저장된 가사에서 안내문을 걸러내며, 실제 가사와 재생 시간은 유지합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.143/LyricRemote.ipa",
-      "size": 21890249,
+      "version": "0.144",
+      "versionDate": "2026-11-24T06:19:11+00:00",
+      "versionDescription": "- HARLEY QUINN, Batshit처럼 검색에서 빠진 곡에 기본 이미지와 검은 배경이 뜨던 문제를 수정했습니다. 현재 곡의 Apple Music ID를 우선 사용하고, Studio에서는 카탈로그에서 곡과 음반을 대조해 표지를 가져옵니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.144/LyricRemote.ipa",
+      "size": 21905014,
       "minOSVersion": "17.0"
     }
   ],

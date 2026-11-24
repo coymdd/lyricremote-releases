@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.142",
+          "buildVersion": "142",
+          "date": "2026-11-24T05:55:56+00:00",
+          "localizedDescription": "재생 중인 곡에 다른 음원의 제목이나 가사가 붙는 경우를 수정했습니다. 이전에 저장한 다른 표기의 제목은 같은 음원으로 확인한 뒤 쓰고, 가사 제공처의 연주곡 안내는 가사와 번역에서 제외합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.142/LyricRemote.ipa",
+          "size": 21887843,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.141",
           "buildVersion": "141",
           "date": "2026-11-24T03:20:38+00:00",
@@ -325,11 +334,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.141",
-      "versionDate": "2026-11-24T03:20:38+00:00",
-      "versionDescription": "Mac에서 앨범아트를 한 번 더 찾을 때 아티스트의 한글 이름과 영문 이름이 달라 표지가 빠지던 문제를 수정했습니다. 같은 아티스트와 음반이 확인되면 표지를 표시합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.141/LyricRemote.ipa",
-      "size": 21885002,
+      "version": "0.142",
+      "versionDate": "2026-11-24T05:55:56+00:00",
+      "versionDescription": "재생 중인 곡에 다른 음원의 제목이나 가사가 붙는 경우를 수정했습니다. 이전에 저장한 다른 표기의 제목은 같은 음원으로 확인한 뒤 쓰고, 가사 제공처의 연주곡 안내는 가사와 번역에서 제외합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.142/LyricRemote.ipa",
+      "size": 21887843,
       "minOSVersion": "17.0"
     }
   ],

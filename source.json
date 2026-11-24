@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.143",
+          "buildVersion": "143",
+          "date": "2026-11-24T06:04:55+00:00",
+          "localizedDescription": "- 곡에 가사가 없을 때도 중국어 안내문이 가사처럼 표시되고 번역되던 문제를 수정했습니다. 모든 가사 제공처와 저장된 가사에서 안내문을 걸러내며, 실제 가사와 재생 시간은 유지합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.143/LyricRemote.ipa",
+          "size": 21890249,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.142",
           "buildVersion": "142",
           "date": "2026-11-24T05:55:56+00:00",
@@ -334,11 +343,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.142",
-      "versionDate": "2026-11-24T05:55:56+00:00",
-      "versionDescription": "재생 중인 곡에 다른 음원의 제목이나 가사가 붙는 경우를 수정했습니다. 이전에 저장한 다른 표기의 제목은 같은 음원으로 확인한 뒤 쓰고, 가사 제공처의 연주곡 안내는 가사와 번역에서 제외합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.142/LyricRemote.ipa",
-      "size": 21887843,
+      "version": "0.143",
+      "versionDate": "2026-11-24T06:04:55+00:00",
+      "versionDescription": "- 곡에 가사가 없을 때도 중국어 안내문이 가사처럼 표시되고 번역되던 문제를 수정했습니다. 모든 가사 제공처와 저장된 가사에서 안내문을 걸러내며, 실제 가사와 재생 시간은 유지합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.143/LyricRemote.ipa",
+      "size": 21890249,
       "minOSVersion": "17.0"
     }
   ],

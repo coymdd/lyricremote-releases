@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.140",
+          "buildVersion": "140",
+          "date": "2026-11-24T03:01:06+00:00",
+          "localizedDescription": "일부 곡에서 Apple Music의 한국어 제목으로 표지를 찾지 못해 배경이 검게 보이던 문제를 수정했습니다. 곡 검색에 실패해도 음반명과 아티스트가 확인되면 해당 음반의 표지와 배경을 표시합니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.140/LyricRemote.ipa",
+          "size": 21884601,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.139",
           "buildVersion": "139",
           "date": "2026-11-18T10:06:05+00:00",
@@ -307,11 +316,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.139",
-      "versionDate": "2026-11-18T10:06:05+00:00",
-      "versionDescription": "한국어와 외국어가 한 줄에 섞이면 한국어까지 바뀌던 문제를 수정했습니다. 외국어 구절만 번역해 원래 자리에 넣고 한국어와 문장부호는 그대로 표시합니다. 저장된 번역에서 한국어가 바뀐 경우 해당 줄을 다시 번역합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.139/LyricRemote.ipa",
-      "size": 21872314,
+      "version": "0.140",
+      "versionDate": "2026-11-24T03:01:06+00:00",
+      "versionDescription": "일부 곡에서 Apple Music의 한국어 제목으로 표지를 찾지 못해 배경이 검게 보이던 문제를 수정했습니다. 곡 검색에 실패해도 음반명과 아티스트가 확인되면 해당 음반의 표지와 배경을 표시합니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.140/LyricRemote.ipa",
+      "size": 21884601,
       "minOSVersion": "17.0"
     }
   ],

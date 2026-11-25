@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.146",
+          "buildVersion": "146",
+          "date": "2026-11-25T17:33:10+00:00",
+          "localizedDescription": "iPhone Duo와 iPad를 가로로 쓸 때 앨범아트와 가사 사이의 손잡이를 드래그해 양쪽 너비를 조절할 수 있습니다. 마지막으로 선택한 비율은 앱을 다시 열어도 유지됩니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.146/LyricRemote.ipa",
+          "size": 21928429,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.145",
           "buildVersion": "145",
           "date": "2026-11-24T06:35:08+00:00",
@@ -361,11 +370,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.145",
-      "versionDate": "2026-11-24T06:35:08+00:00",
-      "versionDescription": "- Studio 재생곡이 이름 검색에서 누락되거나 다른 음반의 결과를 사용하던 문제를 개선했습니다. Music의 재생 대기열에서 확인한 Apple Music 곡 ID로 표지와 가사를 먼저 조회합니다. Studio 연결에서 사용하려면 브리지도 이번 버전으로 업데이트해야 합니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.145/LyricRemote.ipa",
-      "size": 21919556,
+      "version": "0.146",
+      "versionDate": "2026-11-25T17:33:10+00:00",
+      "versionDescription": "iPhone Duo와 iPad를 가로로 쓸 때 앨범아트와 가사 사이의 손잡이를 드래그해 양쪽 너비를 조절할 수 있습니다. 마지막으로 선택한 비율은 앱을 다시 열어도 유지됩니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.146/LyricRemote.ipa",
+      "size": 21928429,
       "minOSVersion": "17.0"
     }
   ],

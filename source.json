@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.147",
+          "buildVersion": "147",
+          "date": "2026-11-26T07:07:56+00:00",
+          "localizedDescription": "iPhone Duo를 반쯤 접어 가로로 쓸 때, 이전에 조절해 둔 가사 너비 때문에 앨범아트 쪽만 좁아지고 가사만 절반을 차지하던 문제를 고쳤습니다. 이제 반쯤 접은 상태에서는 앨범아트와 가사가 경첩을 기준으로 반씩 나뉘며, 펼친 Duo와 iPad에서 조절한 너비는 그대로 유지됩니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.147/LyricRemote.ipa",
+          "size": 21929232,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.146",
           "buildVersion": "146",
           "date": "2026-11-25T17:33:10+00:00",
@@ -370,11 +379,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.146",
-      "versionDate": "2026-11-25T17:33:10+00:00",
-      "versionDescription": "iPhone Duo와 iPad를 가로로 쓸 때 앨범아트와 가사 사이의 손잡이를 드래그해 양쪽 너비를 조절할 수 있습니다. 마지막으로 선택한 비율은 앱을 다시 열어도 유지됩니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.146/LyricRemote.ipa",
-      "size": 21928429,
+      "version": "0.147",
+      "versionDate": "2026-11-26T07:07:56+00:00",
+      "versionDescription": "iPhone Duo를 반쯤 접어 가로로 쓸 때, 이전에 조절해 둔 가사 너비 때문에 앨범아트 쪽만 좁아지고 가사만 절반을 차지하던 문제를 고쳤습니다. 이제 반쯤 접은 상태에서는 앨범아트와 가사가 경첩을 기준으로 반씩 나뉘며, 펼친 Duo와 iPad에서 조절한 너비는 그대로 유지됩니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.147/LyricRemote.ipa",
+      "size": 21929232,
       "minOSVersion": "17.0"
     }
   ],

@@ -19,6 +19,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.148",
+          "buildVersion": "148",
+          "date": "2026-11-28T01:58:54+00:00",
+          "localizedDescription": "Music을 재생하지 않거나 일시정지한 상태에서 재생바를 움직였다 놓으면 앱이 멈췄다가 꺼지던 문제를 고쳤습니다. 이제 재생 위치를 바꿔도 화면이 멈추지 않고 바로 반응합니다.\n앱을 열자마자 화면이 하얗게 멈춘 채 반응하지 않던 경우도 함께 고쳤습니다.",
+          "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.148/LyricRemote.ipa",
+          "size": 21934215,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.147",
           "buildVersion": "147",
           "date": "2026-11-26T07:07:56+00:00",
@@ -379,11 +388,11 @@
           "NSLocalNetworkUsageDescription": "Studio Mac에 연결하고 같은 Wi-Fi의 Google Cast 기기에 가사 화면을 표시하기 위해 로컬 네트워크를 사용합니다."
         }
       },
-      "version": "0.147",
-      "versionDate": "2026-11-26T07:07:56+00:00",
-      "versionDescription": "iPhone Duo를 반쯤 접어 가로로 쓸 때, 이전에 조절해 둔 가사 너비 때문에 앨범아트 쪽만 좁아지고 가사만 절반을 차지하던 문제를 고쳤습니다. 이제 반쯤 접은 상태에서는 앨범아트와 가사가 경첩을 기준으로 반씩 나뉘며, 펼친 Duo와 iPad에서 조절한 너비는 그대로 유지됩니다.",
-      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.147/LyricRemote.ipa",
-      "size": 21929232,
+      "version": "0.148",
+      "versionDate": "2026-11-28T01:58:54+00:00",
+      "versionDescription": "Music을 재생하지 않거나 일시정지한 상태에서 재생바를 움직였다 놓으면 앱이 멈췄다가 꺼지던 문제를 고쳤습니다. 이제 재생 위치를 바꿔도 화면이 멈추지 않고 바로 반응합니다.\n앱을 열자마자 화면이 하얗게 멈춘 채 반응하지 않던 경우도 함께 고쳤습니다.",
+      "downloadURL": "https://github.com/coymdd/lyricremote-releases/releases/download/v0.148/LyricRemote.ipa",
+      "size": 21934215,
       "minOSVersion": "17.0"
     }
   ],
